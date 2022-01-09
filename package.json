@@ -19,7 +19,7 @@
     "e2e",
     "tests"
   ],
-  "author": "Maximilian Schwarzmüller/ Academind GmbH",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.4.5",
