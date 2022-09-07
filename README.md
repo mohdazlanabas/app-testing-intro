@@ -1,2 +1,2 @@
 # App Testing
-- Fimilarity with creating code test with Javascipt
+-  Familiarity  with creating code test with Javascipt
